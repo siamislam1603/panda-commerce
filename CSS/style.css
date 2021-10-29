@@ -30,3 +30,11 @@
 .categories.shoes{
     background-image: linear-gradient(to bottom, rgba(0, 0, 255, 0.63) 0%, blue 100%);
 }
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+    border-radius: 10px;
+}
+.container.shoes{
+    margin-bottom: 50px;
+}

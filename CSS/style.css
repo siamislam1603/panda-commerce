@@ -1,0 +1,19 @@
+.carousel-style{
+    background-color: #feeae9;
+    border-radius: 10px;
+    margin-top: 100px;
+}
+.carousel-description{
+    padding: 100px 20px;
+}
+.pink-color{
+    color: rgb(240, 3, 82);
+}
+.pink-btn{
+    background-image: linear-gradient(to bottom, #f20252  0%, #f00352 100%);
+    background-color: #f00352;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 5px 20px;
+}

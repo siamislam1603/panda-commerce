@@ -10,10 +10,23 @@
     color: rgb(240, 3, 82);
 }
 .pink-btn{
-    background-image: linear-gradient(to bottom, #f20252  0%, #f00352 100%);
-    background-color: #f00352;
+    background-image: linear-gradient(to bottom, rgba(242, 2, 82, 0.678)  0%, rgb(240, 3, 82) 100%);
     color: white;
     border: none;
     border-radius: 5px;
     padding: 5px 20px;
+}
+.categories{
+    border-radius: 5px;
+    margin: 50px 0px;
+    color: white;
+}
+.categories.watch{
+    background-image: linear-gradient(to bottom, rgba(255, 166, 0, 0.623) 0%, rgb(255, 166, 0) 100%);
+}
+.categories.bag{
+    background-image: linear-gradient(to bottom, rgba(242, 2, 82, 0.678)  0%, rgb(240, 3, 82) 100%);
+}
+.categories.shoes{
+    background-image: linear-gradient(to bottom, rgba(0, 0, 255, 0.63) 0%, blue 100%);
 }

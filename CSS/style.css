@@ -35,6 +35,14 @@
     box-shadow: 5px 5px 10px lightgray;
     border-radius: 10px;
 }
-#shoes,#backpack{
+.card-footer{
+    border: none;
+    background-color: white;
+}
+#shoes,#backpack,#subscribe{
     margin-bottom: 50px;
+}
+#subscribe{
+    background-color: #feeae9;
+    padding: 100px 0;
 }
